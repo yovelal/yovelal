@@ -2,11 +2,12 @@
 
 Software Engineer | Python Developer
 
-Welcome to my Git profile! I'm Yovel Aloni, a software engineering student specializing in cyber development. I am a quick learner and an excellent problem solver, ready to take the next step in my career and seeking a junior position as a developer.
+Welcome to my Git profile! I'm Yovel Aloni, a software engineering student specializing in cyber development. I am a quick learner and an excellent problem solver.
+Currently working as an **automation developer** at Percepto - Autonomous Drones.
 
 ## About Me
 
-- 🎓 Currently pursuing a B.Sc. in Software Engineering at SCE - Shamoon College of Engineering
+- 🎓 Pursuing a B.Sc. in Software Engineering at SCE - Shamoon College of Engineering
 - 🏆 President's list for one year & Dean's list for two years - GPA 97
 - 💻 Python enthusiast with a passion for automation and testing
 - 🌱 Always eager to learn and stay updated with the latest technologies
