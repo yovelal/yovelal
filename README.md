@@ -1,6 +1,6 @@
 # Yovel Aloni
 
-Software Engineer | Python Developer | Cyber Specialist
+Software Engineer | Python Developer
 
 Welcome to my Git profile! I'm Yovel Aloni, a software engineering student specializing in cyber development. I am a quick learner and an excellent problem solver, ready to take the next step in my career and seeking a junior position as a developer.
 
